@@ -1,4 +1,4 @@
-# Sentiment_Classification_Using_Deep-Learning
+# Observing the Impact of Training Data Size on the Performance of Deep Learning Models
 
 This Repo contains the code used for the design and implementation of a classifier to detect offensive speech using the OLID dataset. Two classifiers were adopted: a Long-Short-Term Memory (LSTM) classifier and a BERT-sequence classifier. 
 
